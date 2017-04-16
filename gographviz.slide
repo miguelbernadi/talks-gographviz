@@ -1,0 +1,45 @@
+Manipulating and displaying graphs with gographviz
+
+27 Apr 2017
+Tags: graph, graphviz, visualizations
+
+Miguel Bernabeu
+Infrastructure Engineer, Devex
+miguelbernadi@gmail.com
+
+@miguelbernadi
+
+* Story
+
+* AWS Security Groups
+- Inherited infrastructure
+
+- Unstructured approach
+
+- Functional misunderstandings
+
+- Large amount of legacy services
+
+- Early adoption
+
+= big mess
+
+* Problem
+
+
+
+* Solution
+
+* Visualizations!
+
+Relations between machines are graphs. Must be directed, should be acyclic
+
+[[http://www.graphviz.org/content/dot-language][DOT format]] is a standard designed to represent graphs. Structured text format.
+
+Standard tools for rendering and manipulation
+
+Reference implementation: [[http://graphviz.org/][graphviz]]
+
+* Usage
+
+* Caveats
